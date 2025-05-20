@@ -7,5 +7,4 @@ This bot offers:
 - Red flags? More like green flags
 ## 🧠 Tech Stack
 - Python
-- OpenAI / GPT# Terrible-relationship-bot
-# Terrible-relationship-bot
+- OpenAI / GPT
